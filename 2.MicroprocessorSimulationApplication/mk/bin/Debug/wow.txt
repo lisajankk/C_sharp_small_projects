@@ -1,0 +1,4 @@
+sub bx, bx
+sub bx, bx
+sub ax, cx
+sub bx, bx

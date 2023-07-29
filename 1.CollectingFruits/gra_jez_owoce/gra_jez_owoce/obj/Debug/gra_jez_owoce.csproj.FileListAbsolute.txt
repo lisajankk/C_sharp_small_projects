@@ -1,0 +1,10 @@
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\bin\Debug\gra_jez_owoce.exe.config
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\bin\Debug\gra_jez_owoce.exe
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\bin\Debug\gra_jez_owoce.pdb
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.csprojAssemblyReference.cache
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.Properties.Resources.resources
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.csproj.GenerateResource.cache
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.csproj.CoreCompileInputs.cache
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.exe
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.pdb
+C:\Users\lk\Desktop\VI_semestr\OSK\6\gra\gra_jez_owoce\gra_jez_owoce\obj\Debug\gra_jez_owoce.Owoce.resources
